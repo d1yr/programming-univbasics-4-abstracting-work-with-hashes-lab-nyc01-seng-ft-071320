@@ -1,5 +1,6 @@
 def my_hash_creator(key, value)
-  hash={:key=>string, :value=>green}
+  hash(:key=>)
+  hash(:value=>)  
 end
 
 def read_from_hash(hash, key)
