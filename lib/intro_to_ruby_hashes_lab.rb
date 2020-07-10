@@ -4,7 +4,7 @@ end
 
 def read_from_hash(hash, key)
   hash = { key }
-  read_from_hash(hash, key)
+  key.id:
 end
 
 def update_counting_hash(hash, key)
